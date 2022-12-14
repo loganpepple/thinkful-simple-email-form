@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-items: start;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    width: fit-content;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    margin-bottom: 20px;
+}
